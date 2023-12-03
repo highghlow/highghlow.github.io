@@ -28,6 +28,13 @@ url: "https://highghlow.github.io"
 github:
   username: highghlow # change to your github username
 
+social:
+  name: highghlow
+  email: highghlow@proton.me
+  links:
+    - https://github.com/highghlow
+  username: highghlow
+
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
@@ -113,7 +120,7 @@ kramdown:
 
 collections:
   tabs:
-    output: false
+    output: true
     sort_by: order
 
 defaults:
@@ -122,7 +129,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: false # Enable comments in posts.
+      comments: true # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
