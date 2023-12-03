@@ -4,7 +4,7 @@ date: 2023-12-03
 ---
 
 I have a lot of adblocking software. Here all that I use/heard about.
-I you want to add something you can [make an issue on github](https://github.com/highghlow/highghlow.github.io/issues/new?assignees=highghlow&labels=enhancement&projects=&template=ad-block-list--add-an-entry.md&title=Ad-block+list%3A+Add)
+I you want to add something you can [make an issue on github](https://github.com/highghlow/highghlow.github.io/issues/new)
 
 - # uBlockOrigin
 _Browser extension_
@@ -27,7 +27,7 @@ _Browser extension_
 
 Supported platforms: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/), Firefox Android
 
-> AdNauseam is an ad-blocking extension which not only blocks ads, but also clicks on them to throw ad networks off. Blocks less ads that uBlockOrigin and is not compatible with other ad-blockers, so if you want to see no ads at all, use uBlockOrigin
+AdNauseam is an ad-blocking extension which not only blocks ads, but also clicks on them to throw ad networks off. Blocks less ads that uBlockOrigin and is not compatible with other ad-blockers, so if you want to see no ads at all, use uBlockOrigin
 
 - # Bromite
 _Browser_
