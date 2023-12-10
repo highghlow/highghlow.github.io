@@ -42,6 +42,11 @@ Manjaro is good. It is based on Arch (so it has the AUR) and it's easy to instal
 
 NixOS is a really good choice if you reinastall OSs a lot. For me the problem was, that home-manager made all config files that it controlled read-only, but overall it's a pretty solid distro with a large repository of software (almost like the AUR)
 
+# Gentoo
+[Official website](https://www.gentoo.org/)
+
+I didn't believe anything could be harder to install than Arch. I was wrong. Installing Gentoo was so hard that I gave up, so I can't say anything about the system itself, but building everything from source seems nice.
+
 # Blend OS
 [Official website](https://blendos.co/)
 
